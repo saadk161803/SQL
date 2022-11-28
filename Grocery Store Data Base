@@ -1,0 +1,9 @@
+CREATE TABLE books(id integer primary key, name TEXT, rating INTEGER); 
+
+INSERT INTO books VALUES
+(1,'biochem, 3)
+(2, 'Art History', 2)
+(3, 'history', 1)
+;
+
+
