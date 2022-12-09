@@ -1,4 +1,5 @@
-#I QUERY DATA ABOUT ARTIST AND THEIR ALBUMS
+##In this SQL, I'm querying a database with multiple tables in it to quantify statistics about music artist and their data. 
+
 
 #1. 
 SELECT FirstName, LastName, CustomerId, Country 
